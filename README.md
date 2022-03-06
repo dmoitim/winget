@@ -19,6 +19,7 @@ winget install --id Microsoft.VisualStudioCode -h
 winget install --id OpenVPNTechnologies.OpenVPN -h
 winget install --id TheDocumentFoundation.LibreOffice -h
 winget install --id OpenVPNTechnologies.OpenVPNConnect -h
+winget install --id Git.Git -h
 ~~~
 
 ### Para verificar os programas que possuem atualização
