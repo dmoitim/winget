@@ -18,8 +18,12 @@ winget install --id VideoLAN.VLC -h
 winget install --id Microsoft.VisualStudioCode -h
 winget install --id OpenVPNTechnologies.OpenVPN -h
 winget install --id TheDocumentFoundation.LibreOffice -h
-winget install --id OpenVPNTechnologies.OpenVPNConnect -h
 winget install --id Git.Git -h
+winget install --id TortoiseGit.TortoiseGit -h
+winget install --id Oracle.JDK.17 -h
+winget install --id Skillbrains.Lightshot -h
+winget install --id Docker.DockerDesktop -h
+winget install --id Postman.Postman -h
 ~~~
 
 ### Para verificar os programas que possuem atualização
